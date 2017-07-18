@@ -1,4 +1,4 @@
-#if UNITY_4_6 || UNITY_5
+#if UNITY_4_6 || UNITY_5 || UNITY_2017
 using System;
 using UniRx;
 using UnityEngine;

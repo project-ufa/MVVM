@@ -3,6 +3,6 @@
   "author" : "uFrame",
   "license" : "MIT",
   "dependencies" : {
-    "uFrame/Core" : "master"
+    "project-ufa/Core" : "master"
   }
 }
